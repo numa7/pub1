@@ -3,7 +3,7 @@
 # u can add a new MySQL User (see examples run commands)
  bash installer.sh
  
- bash installer.sh mynewuser mynewpassword
+ bash installer.sh php mynewuser mynewpassword
  
- bash installer.sh mynewuser auto
+ bash installer.sh nophp mynewuser 
  
